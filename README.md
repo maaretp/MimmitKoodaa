@@ -14,7 +14,7 @@ HTML
 - head - title ja meta
 - body - h1, p, br, hr, b, i, underline, ul/li, table, div, img, a 
 - id ja class
-=> cheat sheet
+- => cheat sheet
 
 CSS
 - tekstin väri
