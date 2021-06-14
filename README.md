@@ -14,6 +14,7 @@ HTML
 - head - title ja meta
 - body - h1, p, br, hr, b, i, underline, ul/li, table, div, img, a 
 - id ja class
+=> cheat sheet
 
 CSS
 - tekstin väri
@@ -22,3 +23,7 @@ CSS
 
 JS
 - paljasta -painikkeen toteutus
+
+Meta 
+- ryhmäohjelmointi
+- strong-style pariohjelmointi
