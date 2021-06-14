@@ -1,5 +1,14 @@
 # MimmitKoodaa opetuslaajuus
 
+Github
+- julkinen projekti
+- github editorina
+- pages -määrittely
+
+IDE
+- Visual Studio Code
+- Github Desktop tai Git command line
+
 HTML
 - rakenne: head ja body
 - head - title ja meta
