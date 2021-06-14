@@ -12,7 +12,7 @@ IDE
 HTML
 - rakenne: head ja body
 - head - title ja meta
-- body - h1, p, br, hr, ul/li, table, div 
+- body - h1, p, br, hr, b, i, ul/li, table, div 
 - id ja class
 
 CSS
