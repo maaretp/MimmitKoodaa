@@ -1,5 +1,21 @@
 # MimmitKoodaa opetuslaajuus
 
+Esittäytyminen ja tekniikkatarkistus, ryhmä 2:
+- Tiia
+- Rosa
+- Nadja
+- Emma
+- Elina 
+- Emilia+
+- Maarit
+- Elina S
+
+Miten websivut toimii?
+- kirjoitetaan osoite: http://www.github.com
+- sivu latautuu klikattaessa
+- request (web browser) --> (web server) --> response (web browser) --> render  
+- Maaretin kone (selaimet) / Maaretin kone (tiedostot) --> github pages --> katselu selaimella mistä tahansa maailmasta
+
 Github
 - julkinen projekti
 - github editorina
